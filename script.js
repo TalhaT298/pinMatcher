@@ -5,6 +5,22 @@ document.getElementById('generatePin').addEventListener('click', function () {
     document.getElementById('pinDisplay').textContent = generatedPin; // Display the PIN
     document.getElementById('result').textContent = ''; // Clear previous result
 });
+ // Clear previous result
+  // Clear previous result
+   // Clear previous result
+    // Clear previous result
+     // Clear previous result // Clear previous result
+      // Clear previous result
+       // Clear previous result
+        // Clear previous result // Clear previous result
+         // Clear previous result
+
+          // Clear previous result // Clear previous result // Clear previous result
+           // Clear previous result
+            // Clear previous result
+             // Clear previous result
+              // Clear previous result
+               // Clear previous result
 
 document.getElementById('checkGuess').addEventListener('click', function () {
     const guess = document.getElementById('guessInput').value;
